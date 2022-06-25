@@ -4,3 +4,6 @@
 [submodule "lib/dss-vest"]
 	path = lib/dss-vest
 	url = https://github.com/giry-dev/dss-vest
+[submodule "lib/semitransferable-token"]
+	path = lib/semitransferable-token
+	url = https://github.com/mangrovedao/semitransferable-token
